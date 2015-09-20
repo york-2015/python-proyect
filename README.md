@@ -1,3 +1,3 @@
 # python-proyect
 una serie de programas que realice en mi tiempo libre... //a series of programs that I made in my free time ...
-El programa de lista dentro de lista es una parte que estoy subiendo de apoco disculpa por los errores ortograficos.
+El programa de lista dentro de lista es una parte de algo mas grande que estoy haciendo que estoy subiendo de apoco disculpa por los errores ortograficos.
